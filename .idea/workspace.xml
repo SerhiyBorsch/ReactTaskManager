@@ -219,12 +219,12 @@
       <workItem from="1567773486085" duration="2008000" />
       <workItem from="1567776126082" duration="11541000" />
       <workItem from="1567807874729" duration="4524000" />
-      <workItem from="1567858954582" duration="3930000" />
+      <workItem from="1567858954582" duration="4154000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="112903000" />
+    <option name="totallyTimeSpent" value="113127000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -424,6 +424,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-7650" />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.git/COMMIT_EDITMSG">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/items-list/items-list-component.js">
       <provider selected="true" editor-type-id="text-editor">
