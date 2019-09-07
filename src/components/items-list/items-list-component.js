@@ -120,6 +120,7 @@ class ItemsListComponent extends Component {
       })
     };
     render() {
+        console.log('Hello world');
         let visibleItems = this.search(this.state.todoList, this.state.term);
         let Items = this.filter(visibleItems, this.state.filter);
         let done = this.state.todoList.filter((el)=> el.done === true).length;
