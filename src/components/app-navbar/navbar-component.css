@@ -1,0 +1,17 @@
+.main-navigation {
+    background-color: #c2185b;
+    height: 40px;
+}
+.navigation-buttons{
+    border-radius:15%;
+    width: 80px;
+    height: 40px;
+    background-color: #b71c1c;
+    border-color: #f8bbd0;
+    outline: none;
+    margin-left: 15px;
+}
+.navigation-buttons:hover {
+    background-color: black;
+    color: white;
+}

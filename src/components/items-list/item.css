@@ -1,0 +1,11 @@
+.important {
+    background-color: red;
+}
+.done {
+    text-decoration: line-through;
+}
+.importantDone {
+    background-color: red;
+    text-decoration: line-through;
+}
+
