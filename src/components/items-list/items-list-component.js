@@ -99,18 +99,17 @@ class ItemsListComponent extends Component {
         })
     };
     filter = (items, parameter) => {
-      if(parameter === '') {
-          return items
-      }
-      if (parameter === true){
-          return items.filter((el)=>{
-             return el.done === true
-          });
-      }
-      if (parameter === false){
-          return items.filter((el)=>{
-             return el.done === false
-          });
+      switch(parameter) {
+          case 'all':
+              return items;
+          case 'active':
+              return items.filter((el)=> !el.done);
+          case 'done':
+              return items.filter((el)=> el.done);
+          case 'important':
+              return items.filter((el)=>el.important);
+          default:
+              return items;
       }
     };
     onFilter = (filter) => {
