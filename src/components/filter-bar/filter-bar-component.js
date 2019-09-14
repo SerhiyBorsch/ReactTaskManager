@@ -7,7 +7,8 @@ class FilterBarComponent extends Component {
         buttonFilters: [
             'all',
             'done',
-            'active'
+            'active',
+            'important'
         ]
     };
     searching = (event) => {
