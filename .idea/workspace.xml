@@ -4,7 +4,7 @@
     <list default="true" id="a76f329d-86f0-4f30-a35b-a008dfd78d0c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/anotherFile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/feature_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/feature_2.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -123,7 +123,7 @@
       <workItem from="1568025968580" duration="4159000" />
       <workItem from="1568477367384" duration="625000" />
       <workItem from="1568547455231" duration="724000" />
-      <workItem from="1568552321681" duration="718000" />
+      <workItem from="1568552321681" duration="1120000" />
     </task>
     <task id="LOCAL-00001" summary="all">
       <created>1567864749840</created>
