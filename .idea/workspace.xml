@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="a76f329d-86f0-4f30-a35b-a008dfd78d0c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/feature_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/feature_2.js" afterDir="false" />
+>>>>>>> cd8b0b5d78057c83ad291d1bfbc63b66c49a8dbd
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +32,11 @@
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectId" id="1QvL8PK7Nllznsb0I8F1MjAeR3r" />
+=======
+  <component name="ProjectId" id="1QppOxugt28YjvZBqxnn9cioriB" />
+>>>>>>> cd8b0b5d78057c83ad291d1bfbc63b66c49a8dbd
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -35,7 +44,11 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+<<<<<<< HEAD
     <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/../react_learning_2/node_modules/eslint" />
+=======
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/../node_modules/eslint" />
+>>>>>>> cd8b0b5d78057c83ad291d1bfbc63b66c49a8dbd
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -119,7 +132,13 @@
       <workItem from="1567807874729" duration="4524000" />
       <workItem from="1567858954582" duration="6282000" />
       <workItem from="1568025968580" duration="4159000" />
+<<<<<<< HEAD
       <workItem from="1568645965532" duration="1625000" />
+=======
+      <workItem from="1568477367384" duration="625000" />
+      <workItem from="1568547455231" duration="724000" />
+      <workItem from="1568552321681" duration="1120000" />
+>>>>>>> cd8b0b5d78057c83ad291d1bfbc63b66c49a8dbd
     </task>
     <task id="LOCAL-00001" summary="all">
       <created>1567864749840</created>
